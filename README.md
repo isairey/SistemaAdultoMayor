@@ -76,11 +76,11 @@ El sistema está diseñado bajo un enfoque integral que contempla:
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/adultomayorsistema.git
+git clone https://github.com/isairey/SistemaAdultoMayor.git
 ```
 Acceder al proyecto:
 ```
-cd adultomayorsistema
+cd SistemaAdultoMayor
 ```
 Instalar dependencias:
 ```
