@@ -1,0 +1,110 @@
+/*------------------------------------------------------------------
+[White Theme Page Stylesheet]
+
+Project:    Fondamix Foundation Dashboard Template
+Version:    1.0
+Last change:    01/01/2017 [fixed Float bug, vf]
+Author: Themesmile
+-------------------------------------------------------------------*/
+
+body {
+    background: #4d394b;
+}
+
+.profile, #menu-select {
+    background: #4d394b;
+}
+
+#skin-select #toggle,
+#skin-select #toggle.active,
+#skin-select #toggle:hover,
+#skin-select #toggle.active:hover {
+    background: #4d394b;
+}
+
+.profile span {
+    color: #222;
+}
+
+#skin-select {
+    background: #4d394b;
+}
+
+ul.topnav ul {
+    background: #3e313c;
+}
+
+#paper-bg {
+    background: #F5F5F5;
+}
+
+.breadcrumbs {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    height: 50px;
+}
+
+ul.topnav li a,
+.bottom-list-menu li {
+    color: #ab9ba9!important;
+    color: #ab9ba9!important;
+}
+
+ul.topnav li a:hover {
+    background-color: #3e313c;
+    color: #ab9ba9;
+}
+
+ul.topnav ul li a:hover {
+    color: rgba(255, 255, 255, 0.5)!important;
+}
+
+ul.topnav li a:hover:before {
+    background:#ab9ba9;
+}
+
+.top-bar .name h1 span {
+    background: #3B5998;
+    color: #ab9ba9;
+}
+
+ul.topnav ul:after {
+    left: -10px;
+    border-color: transparent #fff;
+}
+
+.edumix-msg-noft {}
+
+.edumix-noft {}
+
+#skin-select li b {
+    color: #ab9ba9;
+}
+
+#menuwrapper ul li ul li a {
+    color:#ab9ba9!important;
+}
+
+#menuwrapper ul li:hover ul,
+#menuwrapper ul li.iehover ul {
+    background: #3e313c;
+    margin: 0 0 0 1px;
+}
+
+
+/* SLICKNAV */
+
+.slicknav_nav a {
+    color: #ab9ba9;
+}
+
+
+/* RIGHT NAV */
+
+.right-off-canvas-menu {
+    background: #000;
+}
+
+#skin-select li i {
+    color: #fff;
+}
